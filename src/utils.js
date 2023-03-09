@@ -3,8 +3,8 @@
 //   DATA IS THE SAME JUST A DIFFERENT URL,
 //   DOES NOT AFFECT PROJECT FUNCTIONALITY
 
-//const allProductsUrl = 'https://course-api.com/javascript-store-products'
-const allProductsUrl = loadJSON("https://jsonplaceholder.typicode.com/posts",productsanytool,'jsonp');
+const allProductsUrl = 'https://course-api.com/javascript-store-products'
+//onst allProductsUrl = loadJSON("https://jsonplaceholder.typicode.com/posts",productsanytool,'jsonp');
 
 // temporary single product
 // 'https://course-api.com/javascript-store-single-product?id=rec43w3ipXvP28vog'
